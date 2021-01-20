@@ -6,12 +6,12 @@
 
  ----
  ## Table of Contents
- -[Features](#features)
- -[Technologies](#technologies)
- -[Setup](#setup)
- -[Usage](#usage)
- -[Disclaimer](#disclaimer)
- -[Ideas to Implement](#ideas-to-implement)
+ -[Features](#features)  
+ -[Technologies](#technologies)  
+ -[Setup](#setup)  
+ -[Usage](#usage)  
+ -[Disclaimer](#disclaimer)  
+ -[Ideas to Implement](#ideas-to-implement)  
  
  ----
  ## Features
@@ -19,7 +19,7 @@
  - Basic commands
  - Basic and complex functions
  
- ###Basic Functions
+ ### Basic Functions
  - `+`
  - `-`
  - `/`
@@ -27,7 +27,7 @@
  - `^`
  - `sqrt`
  
- ###Complex Functions
+ ### Complex Functions
  - `singrad` 
    - Solve a single radical equation
  - `doubrad`
@@ -43,7 +43,7 @@
  - `factorpolynomial`
    - Factor a polynomial
  
- ###Commands
+ ### Commands
  - `help`
    - Brings up the help menu
  - `quit`
@@ -92,13 +92,13 @@
  can be performed. The valid operators can be found [here](#features) and in the
  help menu in the app. 
  
- ###Disclaimer
+ ### Disclaimer
  I have made the calculator to the best of my ability and I have run multiple tests
  to ensure accuracy. However, results should not be relied upon to be accurate in
  critical situations and scenarios. If you are going to use this calculator, checking
  the results of the calculator is strongly advised.
  
- ###Inaccurate Results
+ ### Inaccurate Results
  If you do find a result that is inaccurate, please create a new issue on the repository
  page with the following information:
  - Type of function used
