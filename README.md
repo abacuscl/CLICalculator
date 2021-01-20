@@ -6,12 +6,12 @@
 
  ----
  ## Table of Contents
- -[Features](#features)  
- -[Technologies](#technologies)  
- -[Setup](#setup)  
- -[Usage](#usage)  
- -[Disclaimer](#disclaimer)  
- -[Ideas to Implement](#ideas-to-implement)  
+ - [Features](#features)  
+ - [Technologies](#technologies)  
+ - [Setup](#setup)  
+ - [Usage](#usage)  
+ - [Disclaimer](#disclaimer)  
+ - [Ideas to Implement](#ideas-to-implement)  
  
  ----
  ## Features
