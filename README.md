@@ -87,7 +87,7 @@
  ## Important Note
  When installing, if you choose to clone from the web browser, you must keep
  all the files and functions in the pre-setup directories. Otherwise, the app may
- not run correctly or may crash
+ not run correctly or may crash.
  
  ----
  ## Usage
